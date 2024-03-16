@@ -17,7 +17,7 @@
 
 ##Установка
 
-1. Пропишите в командной строке `git clone `
+1. Пропишите в командной строке `git clone https://github.com/mensafromgithub/studious-fishstick`
 
 
 2. Запустите любой файл командой `python3 <Имя файла>`
